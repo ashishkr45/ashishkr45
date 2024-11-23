@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://x.com/ashish459426124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ashish459426124" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashishkr45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishkr45" height="30" width="40" /></a>
-<a href="https://https://www.instagram.com/im.ashish.kr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.ashish.kr" height="30" width="40" /></a>
+<a href="https://www.instagram.com/im.ashish.kr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.ashish.kr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashishkr45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lucifer_ak9" height="30" width="40" /></a>
 </p>
 
