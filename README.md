@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ashishkr<br>👀 I’m interested in web dev, system design nd DSA algo<br>🌱 I’m currently learning C, C++, DBMS, web dev<br>📫 How to reach me? on X, @ashish459426124<br>😄 Pronouns: He/Him<br>⚡ Fun fact: When I'm not studying, im slaying demons in Doom Eternal.
+👋 Hi, I’m @ashishkr<br>👀 I’m interested in web dev, system design nd DSA algo<br>🌱 I’m currently learning MERN stack<br>📫 How to reach me? on X, @ashish459426124<br>😄 Pronouns: He/Him<br>⚡ Fun fact: When I'm not studying, im slaying demons in Doom Eternal.
 
 
 <h3 align="left">Connect with me:</h3>
